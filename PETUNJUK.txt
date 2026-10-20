@@ -1,0 +1,14 @@
+UNDANGAN DIGITAL KHITANAN ARSHAKA MUHAMMAD KALIEF
+
+Isi folder ini: index.html dan foto-arshaka.png. Keduanya harus berada di folder yang sama saat diunggah.
+
+CARA PUBLIKASI GRATIS DENGAN GITHUB PAGES
+1. Buka https://github.com lalu buat akun/masuk.
+2. Buat repository baru bernama undangan-arshaka dan pilih Public.
+3. Unggah index.html dan foto-arshaka.png ke halaman utama repository.
+4. Buka Settings > Pages. Pada Build and deployment pilih Deploy from a branch.
+5. Pilih branch main dan folder /(root), lalu Save.
+6. Tunggu hingga GitHub menampilkan alamat publik, biasanya https://NAMA-AKUN.github.io/undangan-arshaka/
+7. Tautan personal untuk tamu bisa dibuat dengan menambahkan ?kpd=Nama+Tamu, misalnya ?kpd=Bapak+Budi.
+
+Fitur: foto anak, detail acara, hitung mundur, konfirmasi WhatsApp, tautan Google Maps yang diberikan, dan amplop digital SeaBank.
